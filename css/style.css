@@ -1,0 +1,21 @@
+h1{
+	color: white;
+}
+.hero-section {
+	height: 65vh;
+	background-image: url("../img/04_07_2022_Charles_Leclerc_apertura.jpg");
+	background-size: cover;
+	background-repeat: no-repeat;
+
+
+display: flex;
+justify-content: center;
+align-items: center;
+
+}
+
+.hero-section h1 {
+	text-align: center;
+	font-size: 80px;
+	font-style: bold;
+}
